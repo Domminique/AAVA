@@ -2,7 +2,7 @@
 
 # ADEIN Ambassador Virtual Assistant
 
-Web: https://aava-v1.netlify.app/
+Web: https://aava-v1.netlify.app
 Youtube Walk Through Video: https://youtu.be/4pAGU9YhkKI
 
 GitHub Repo: https://github.com/Domminique/AAVA.git
