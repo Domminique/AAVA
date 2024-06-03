@@ -2,6 +2,12 @@
 
 # ADEIN Ambassador Virtual Assistant
 
+Web: https://aava-v1.netlify.app/
+Youtube Walk Through Video: https://youtu.be/4pAGU9YhkKI
+
+GitHub Repo: https://github.com/Domminique/AAVA.git
+
+
 ## PROJECT OVERVIEW
 This project aims to develop a functional AI Virtual Assistant specially designed to support ADEIN ambassadors in their various tasks and activities. The Virtual assistant will leverage the power of Generative Pre-trained Transformer ( GPT) technology, specially leveraging Gemini on vertex AI on Google Cloud platform, to process information and respond to queries in a comprehensive and informative way
 
